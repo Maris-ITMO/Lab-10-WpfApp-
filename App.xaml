@@ -1,0 +1,9 @@
+﻿<Application x:Class="Lab_10_WpfApp_СамРабота_Фигуры_Кисти_Трансформации.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Lab_10_WpfApp_СамРабота_Фигуры_Кисти_Трансформации"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
